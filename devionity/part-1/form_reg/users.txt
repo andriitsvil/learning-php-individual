@@ -1,0 +1,2 @@
+a:3:{s:4:"name";s:6:"Andrii";s:5:"email";s:15:"tsvil@gmail.com";s:5:"phone";s:7:"9379992";}
+a:3:{s:4:"name";s:6:"йцу";s:5:"email";s:13:"fdf@ksdl.vpsd";s:5:"phone";s:4:"2345";}
